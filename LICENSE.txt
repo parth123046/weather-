@@ -1,5 +1,4 @@
-MIT License
-Copyright © 2023 WHITE LOTUS
+
 Permission is hereby granted, free of charge, to any person obtaining a copy 
 of this website and associated documentation files (the "website"), to deal in 
 the website without restriction, including without limitation the rights to use, 
